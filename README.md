@@ -55,3 +55,12 @@ Tableau: Executive dashboarding and geospatial storytelling.
 
 To provide full transparency into the data pipeline and analytical process, all project resources are available for review. I encourage you to explore the live Tableau dashboards to test the interactive filters, tooltips, and regional drill-downs.
 
+Live Interactive Dashboards (Tableau Public):
+
+Logistics Risk & Delivery Performance  |
+( https://public.tableau.com/views/logisticsriskanddeliveryperformance/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )— A geospatial audit of shipping reliability and regional bottlenecks.
+Seller Performance & Quality Audit 
+( https://public.tableau.com/views/SellerPerformanceandQualityAudit/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ) — An operational scorecard ranking vendors by volume, revenue, and customer sentiment.
+Market Strategic Growth Trends 
+( https://public.tableau.com/views/ActiveSellersMonthlyTrendvsFreightCost/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ) — A time-series analysis of seller density versus freight cost pressure.
+
